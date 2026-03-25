@@ -1,5 +1,5 @@
 # TubeScreamer-Emulation-Plugin
-ScreamerTube is a faithful digital emulation of the classic Tube Screamer overdrive pedal, designed for musicians, producers, and audio engineers who want the iconic mid-boosted overdrive sound directly in their DAW.
+ScreamerTube is a faithful digital emulation of the classic Tube Screamer overdrive pedal, designed for musicians, producers, and audio engineers who want the iconic mid-boosted overdrive sound directly in their DAW. This project is a continuation of my previous TubeScreamer Digital Model in MATLAB.
 
 **Features**
 Classic Tube Screamer Tone – Emulates the warm, smooth overdrive of the original TS-style pedal.
